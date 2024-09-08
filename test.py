@@ -1,0 +1,1 @@
+print("ammar is stinky")
