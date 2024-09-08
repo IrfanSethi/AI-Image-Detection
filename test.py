@@ -1,1 +1,1 @@
-print("ammar is stinky")
+print("ammar is cool")
