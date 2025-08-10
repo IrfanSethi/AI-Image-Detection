@@ -10,7 +10,7 @@ This project is an introductory exploration into image detection using Google Cl
 - Console output of detected objects and their properties
 
 ## Screenshot
-![Img](Project%20%231/sample_output.png)
+![Screenshot](Screenshot%202025-08-10%20142203.png)
 
 ## Installation
 1. Clone this repository to your local machine.
@@ -18,14 +18,14 @@ This project is an introductory exploration into image detection using Google Cl
    ```bash
    pip install google-cloud-vision
    ```
-3. Obtain Google Cloud Vision API credentials and place the JSON file in the `Project #1` directory.
+3. Obtain Google Cloud Vision API credentials and place the JSON file in the project directory.
 4. Update the image and credentials path in `week1.py` if necessary.
 
 ## Usage
-1. Place your test image in the appropriate directory (default: `Project #1`).
+1. Place your test image in the appropriate directory (default: project root).
 2. Run the script:
    ```bash
-   python Project-1-Image-Detecting-Robot-main/week1.py
+   python week1.py
    ```
 3. View the console output for detected objects and their bounding boxes.
 
