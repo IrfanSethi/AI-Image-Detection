@@ -1,4 +1,4 @@
-# Image Detecting Robot - Project 1
+# AI Image Detecting 
 
 ## Introduction
 This project is an introductory exploration into image detection using Google Cloud Vision API. The goal is to detect and localize objects within images, providing bounding box coordinates and confidence scores for each detected object. This project serves as a foundation for understanding how machine learning APIs can be integrated into Python applications for computer vision tasks.
